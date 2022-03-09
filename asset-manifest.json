@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/complete_mui_system/static/css/main.624e7192.css",
+    "main.js": "/complete_mui_system/static/js/main.8a35655a.js",
+    "static/js/787.e1a39a2e.chunk.js": "/complete_mui_system/static/js/787.e1a39a2e.chunk.js",
+    "index.html": "/complete_mui_system/index.html",
+    "main.624e7192.css.map": "/complete_mui_system/static/css/main.624e7192.css.map",
+    "main.8a35655a.js.map": "/complete_mui_system/static/js/main.8a35655a.js.map",
+    "787.e1a39a2e.chunk.js.map": "/complete_mui_system/static/js/787.e1a39a2e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.624e7192.css",
+    "static/js/main.8a35655a.js"
+  ]
+}
