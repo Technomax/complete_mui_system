@@ -2,7 +2,7 @@
   "name": "complete_mui_system",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://technomax.github.io/complete_mui_system/react-gh-pages",
+  "homepage": "https://technomax.github.io/complete_mui_system",
   "dependencies": {
     "@date-io/date-fns": "^2.13.1",
     "@date-io/dayjs": "^2.13.1",
